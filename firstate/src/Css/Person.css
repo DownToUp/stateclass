@@ -1,0 +1,19 @@
+span{
+    color: black;
+    letter-spacing:2px;
+}
+
+p{
+    font-weight: bold;
+    letter-spacing: 4px;
+    padding:5px auto
+}
+img{
+    height:300px;
+    width:600px
+}
+.raw{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    }
